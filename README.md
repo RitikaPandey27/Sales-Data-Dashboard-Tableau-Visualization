@@ -55,10 +55,6 @@ The dashboards provide **actionable insights** to:
 
 ---
 
-## 📸 Dashboard Previews  
-📊 **Sales Overview Dashboard**  
-![Sales Overview Dashboard](INSERT_IMAGE_LINK_HERE)  
-
 📊 **Customer Insights Dashboard**  
 ![Customer Insights Dashboard](INSERT_IMAGE_LINK_HERE)  
 
